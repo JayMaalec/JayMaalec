@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @JayMaalec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Jay Maalec  
+**DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast**
 
-<!---
-JayMaalec/JayMaalec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I’m interested in**  
+- Cloud Platforms (AWS, Azure, GCP)  
+- CI/CD Pipelines & Deployment Automation  
+- Infrastructure as Code (Terraform, Ansible)  
+- Kubernetes & Container Orchestration  
+- Monitoring, Logging, and Observability  
+
+**I’m currently learning**  
+- Advanced Kubernetes & Helm  
+- GitOps with ArgoCD  
+- Serverless Architectures  
+- SRE Principles & Chaos Engineering  
+
+**I’m looking to collaborate on**  
+- Cloud-native application deployments  
+- Scalable, fault-tolerant infrastructure solutions  
+- Open-source DevOps tools and automation frameworks  
+
+**How to reach me**  
+- Email: jaymaalec@gmail.com  
+
+**Fun fact**  
+I automate so much, even my coffee machine has a webhook.
